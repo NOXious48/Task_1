@@ -128,6 +128,8 @@ For estimation of initial position of robot in rviz follow section 0.3.4 this [t
 
 Now you can use the 2D NAV tool for navigaiton in RVIZ
 
+Note: In video working.mp4 the reason for showing gazebo and rviz navigaiton separately is that my screen recorder recorded them separately
+
 ## Resources used
 
 1. [Robotis e manual](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/#overview)
