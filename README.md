@@ -8,8 +8,7 @@ The TurtleBot3 Simulation Package requires `turtlebot3` and `turtlebot3_msgs` pa
 
 ```
 $ cd ~/catkin_ws/src/
-$ git clone -b noetic-devel https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
-$ git clone https://github.com/marinaKollmitz/gazebo_ros_2Dmap_plugin
+$ git clone https://github.com/NOXious48/Task_1
 $ cd ~/catkin_ws && catkin_make
 ```
 Download the desired world and it's model from [here](https://github.com/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps).
