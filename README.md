@@ -134,3 +134,4 @@ Note: In video working.mp4 the reason for showing gazebo and rviz navigaiton sep
 ## Resources used
 
 1. [Robotis e manual](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/#overview)
+2. [Worlds dataset](https://github.com/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps)
