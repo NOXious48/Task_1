@@ -4,6 +4,8 @@ This is a guide on how to do mapping and autonomous naviagtaion using turtlebot 
 ## Procedure
 
 ### 1. Creating workspace and downloading required packages
+It is advisable to go through this [Guide](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/) for proper installation of turtlebot siumlation.
+
 The TurtleBot3 Simulation Package requires `turtlebot3` and `turtlebot3_msgs` packages as prerequisite. 
 
 ```
